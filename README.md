@@ -1,0 +1,2 @@
+# GirilenAylardanMinVeMaxDegerleriBulma
+GirilenAylardanMinVeMaxDegerleriBulma
